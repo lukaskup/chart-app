@@ -24,6 +24,7 @@ const App = () => {
             console.log(res[1].data);
         })
     },[]);
+
     return (
         <Container className={"p-3"}>
             <AppWrapper>
