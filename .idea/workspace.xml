@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd7b8385-cda3-4b88-88fc-4e771df38f65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.styled.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Chart/Chart.const.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart/Chart.const.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Chart/Chart.styled.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart/Chart.styled.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Chart/Chart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart/Chart.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Chart/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Posts/Posts.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/Posts.styled.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Posts/Posts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/Posts.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Posts/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1632383686405</updated>
       <workItem from="1632383691942" duration="12446000" />
-      <workItem from="1632417858499" duration="3129000" />
+      <workItem from="1632417858499" duration="4983000" />
     </task>
     <task id="LOCAL-00001" summary="change default readme">
       <created>1632395793641</created>
@@ -102,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632396148339</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="delete console.log, add linter, add prettier config">
+      <created>1632421271533</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632421271533</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,7 +108,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change default readme" />
     <MESSAGE value="Live link in readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Live link in readme" />
+    <MESSAGE value="delete console.log, add linter, add prettier config" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete console.log, add linter, add prettier config" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

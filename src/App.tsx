@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import axios, { AxiosResponse } from 'axios';
+import axios from 'axios';
 import { AppWrapper } from './App.styled';
 import { Chart } from './components/Chart';
 import { Posts } from './components/Posts';
@@ -15,7 +15,7 @@ const App = () => {
     useEffect(() => {
         const usersRequest = axios.get('https://jsonplaceholder.typicode.com/users');
         const postsRequests = axios.get('https://jsonplaceholder.typicode.com/posts');
-        Promise.all([usersRequest, postsRequests]).then((res: AxiosResponse<any>[]) => {
+        Promise.all([usersRequest, postsRequests]).then((res) => {
             setUsers(res[0].data);
             setPosts(res[1].data);
         });
