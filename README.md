@@ -10,5 +10,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * React Bootstrap
 * Axios
 
-[Live][https://condescending-blackwell-422dbd.netlify.app]
+[Live](https://condescending-blackwell-422dbd.netlify.app)
 
