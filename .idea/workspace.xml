@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd7b8385-cda3-4b88-88fc-4e771df38f65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chart/Chart.const.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart/Chart.const.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chart/Chart.styled.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart/Chart.styled.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chart/Chart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart/Chart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chart/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Posts/Posts.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/Posts.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Posts/Posts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/Posts.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Posts/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Chart" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/heroes/heroes" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -30,15 +44,17 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="E:\praca\allbright\interview\chart-app\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="ts.external.directory.path" value="E:\praca\allbright\interview\chart-app\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\praca\allbright\interview\chart-app" />
       <recent name="E:\praca\allbright\interview\chart-app\src\components\Chart" />
       <recent name="E:\praca\allbright\interview\chart-app\src" />
       <recent name="E:\praca\allbright\interview\chart-app\src\hooks" />
-      <recent name="E:\praca\allbright\interview\chart-app" />
       <recent name="E:\praca\allbright\interview\chart-app\src\components" />
     </key>
   </component>
@@ -62,11 +78,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632383686405</updated>
-      <workItem from="1632383691942" duration="11006000" />
+      <workItem from="1632383691942" duration="12446000" />
+      <workItem from="1632417858499" duration="3129000" />
     </task>
+    <task id="LOCAL-00001" summary="change default readme">
+      <created>1632395793641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632395793641</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Live link in readme">
+      <created>1632396118609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632396118609</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Live link in readme">
+      <created>1632396148339</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632396148339</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change default readme" />
+    <MESSAGE value="Live link in readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Live link in readme" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
