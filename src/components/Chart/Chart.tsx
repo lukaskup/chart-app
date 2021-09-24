@@ -12,7 +12,7 @@ interface ChartProps {
 }
 
 export const Chart = ({ users, posts, setSelectedPosts }: ChartProps) => {
-    const labels = users.map((user) => user.name);
+    const labels = users.map((user) => user.username);
     const usersPostCount = users.map((user) => posts.filter((post) => post.userId === user.id).length);
 
     const data = {
